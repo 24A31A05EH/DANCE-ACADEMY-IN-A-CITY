@@ -166,7 +166,6 @@ This project was collaboratively built by:
 | **Mallipudi Sri Sri Meher Nayana** | Full Stack Developer |
 | **Peruri Vinay** | Full Stack Developer |
 | **Shaik Ismail** | Documentation & Testing |
-| **Lalam Poorna Chandu Manikanta Sagar** | Testing |
 
 ---
 
