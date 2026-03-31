@@ -165,7 +165,8 @@ This project was collaboratively built by:
 |---|---|
 | **Mallipudi Sri Sri Meher Nayana** | Full Stack Developer |
 | **Peruri Vinay** | Full Stack Developer |
-| **Shaik Ismail** | Frontend Developer & Tester |
+| **Shaik Ismail** | Documentation & Testing |
+| **Lalam Poorna Chandu Manikanta Sagar** | Testing |
 
 ---
 
